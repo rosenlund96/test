@@ -10,6 +10,6 @@ public static void main(String[] args) {
 		x--;
 		System.out.println("Counter er: " + counter);
 	}
-	
+	//her er lavet en ændring
 }
 }
